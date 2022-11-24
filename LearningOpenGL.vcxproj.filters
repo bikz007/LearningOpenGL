@@ -74,7 +74,10 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="pop_cat.png">
+    <Image Include="Resources\brick.png">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="Resources\pop_cat.png">
       <Filter>Resource Files\Textures</Filter>
     </Image>
   </ItemGroup>
