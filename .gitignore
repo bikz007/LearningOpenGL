@@ -1,3 +1,5 @@
 x64/*
 .vs/*
-.vs/LearningOpenGL/v17/ipch/AutoPCH/a002f642a04b0439/MAIN.ipch
+.vs/LearningOpenGL/v17/ipch/AutoPCH/[*]/MAIN.ipch
+LearningOpenGL.vcxproj
+LearningOpenGL.vcxproj.filters
